@@ -34,10 +34,16 @@ Pepedev's GitHub Stats
 
 ## 🦖 Juego del Dinosaurio 🎮
 
+**Presiona ESPACIO para saltar | ↓ para agacharte**
+
+🎮 [Jugar Ahora](https://pepegamboa.github.io/Dinosaur-Game/)
+
+</div>
+
 <a href="https://chromedino.com/" target="_blank">
   <img src="https://media.giphy.com/media/l0HlHcuzAjhMQ8YSY/giphy.gif" width="400" alt="Dino Game"/>
 </a>
-**Presiona ESPACIO para saltar | ↓ para agacharte**
+
 
 [**🎯 Jugar Ahora**](https://chromedino.com/)
 
