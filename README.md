@@ -1,48 +1,29 @@
 Hola mundo 👋
+## GitHub Stats 
+</br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeGamboa&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PepeGamboa&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&hide_border=true" />
+</br>
+
+<br clear="both"/>
+
+---
+
 <div align="center">
-```
-                         ."-,.__
-                         `.     `.  ,
-                      .--'  .._,'"-' `.
-                     .    .'         `'
-                     `.   /          ,'
-                       `  '--.   ,-"'
-                        `"`   |  \
-                           -. \, |
-                            `--Y.'      ___.
-                                 \     L._, \
-                       _.,        `.   <  <\                _
-                     ,' '           `, `.   | \            ( `
-                  ../, `.            `  |    .\`.           \ \_
-                 ,' ,..  .           _.,'    ||\l            )  '".
-                , ,'   \           ,'.-.`-._,'  |           .  _._`.
-              ,' /      \ \        `' ' `--/   | \          / /   ..\
-            .'  /        \ .         |\__ - _ ,'` `        / /     `.`.
-            |  '          ..         `-...-"  |  `-'      / /        . `.
-            | /           |L__           |    |          / /          `. `.
-           , /            .   .          |    |         / /             ` `
-          / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \
-         / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.
-        .  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \
-        ' /          `.'    l     .' /          \..      ,_|/   `.  ,'`     L`
-        |'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \
-        ||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|
-        ||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||
-        || '              V      / /           `   | `   ,'   ,' '.    !  `. ||
-        ||/            _,-------7 '              . |  `-'    l         /    `||
-        . |          ,' .-   ,' ||               | .-.        `.      .'     ||
-         `'        ,'    `".'    |               |    `.        '. -.'       `'
-                  /      ,'      |               |,'    \-.._,.'/'
-                  .     /        .               .       \    .''
-                .`.    |         `.             /         :_,'.'
-                  \ `...\   _     ,'-.        .'         /_.-'
-                   `-.__ `,  `'   .  _.>----''.  _  __  /
-                        .'        /"'          |  "'   '_
-                       /_|.-'\ ,".             '.'`__'-( \
-                         / ,"'"\,'               `/  `-.|" 
-```
-🦖 Press SPACE to start! 🎮
+  
+## 🦖 Juego del Dinosaurio 🎮
+
+<a href="https://chromedino.com/" target="_blank">
+  <img src="https://media.giphy.com/media/l0HlHcuzAjhMQ8YSY/giphy.gif" width="400" alt="Dino Game"/>
+</a>
+
+**Presiona ESPACIO para saltar | ↓ para agacharte**
+
+[**🎯 Jugar Ahora**](https://chromedino.com/)
+
 </div>
+
+---
 
 Contacto
 
