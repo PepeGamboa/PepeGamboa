@@ -13,7 +13,7 @@ Contacto
 Email: arquitectopedrogamboa@gmail.com
 Web: https://pedrogamboa.com/
 
-Social
+Social:
 <div align="center">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
