@@ -36,8 +36,6 @@ Pepedev's GitHub Stats
 
 **Presiona ESPACIO para saltar | ↓ para agacharte**
 
-🎮 [Jugar Ahora](https://pepegamboa.github.io/Dinosaur-Game/)
-
 </div>
 
 <a href="https://chromedino.com/" target="_blank">
@@ -45,7 +43,7 @@ Pepedev's GitHub Stats
 </a>
 
 
-[**🎯 Jugar Ahora**](https://chromedino.com/)
+[**🎮 Jugar Ahora**](https://chromedino.com/)
 
 </div>
 
