@@ -1,24 +1,26 @@
-# Hola 👋
+# Hola mundo👋
 
 ## Contacto
-* Email: arquiectopedrogamboa@gmail.com
+
+* Email: arquitectopedrogamboa@gmail.com
 * Web: https://pedrogamboa.com/
 
 ## Social
 
-<a href="[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/arquitectopedroggamboa/)" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-
-## Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_giovanny_gt/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/urbanismoBogota)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/arquitectopedroggamboa/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://www.instagram.com/pedro_giovanny_gt/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />](https://x.com/urbanismoBogota)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />](https://wa.me/573142568410)
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeGamboa&show_icons=true&theme=dark)
+Pepedev's GitHub Stats
+
+⭐ Total Stars Earned: 4
+🕐 Total Commits (last year): 133
+🔀 Total PRs: 3
+⭕ Total Issues: 0
+📗 Contributed to (last year): 0
 
 ## 🛠️ Tecnologías
 
