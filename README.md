@@ -1,21 +1,4 @@
 Hola mundo 👋
-## GitHub Stats 
-</br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeGamboa&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PepeGamboa&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&hide_border=true" />
-</br>
-
-<br clear="both"/>
-
----
-
-<div align="center">
-  
-## 🦖 Juego del Dinosaurio 🎮
-
-<a href="https://chromedino.com/" target="_blank">
-  <img src="https://media.giphy.com/media/l0HlHcuzAjhMQ8YSY/giphy.gif" width="400" alt="Dino Game"/>
-</a>
 
 **Presiona ESPACIO para saltar | ↓ para agacharte**
 
@@ -44,3 +27,22 @@ Pepedev's GitHub Stats
 
 🛠️ Tecnologías
 <div align="center">
+
+## GitHub Stats 
+</br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeGamboa&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PepeGamboa&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&hide_border=true" />
+</br>
+
+<br clear="both"/>
+
+---
+
+<div align="center">
+  
+## 🦖 Juego del Dinosaurio 🎮
+
+<a href="https://chromedino.com/" target="_blank">
+  <img src="https://media.giphy.com/media/l0HlHcuzAjhMQ8YSY/giphy.gif" width="400" alt="Dino Game"/>
+</a>
+
