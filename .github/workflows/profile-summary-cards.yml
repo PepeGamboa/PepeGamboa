@@ -1,0 +1,30 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Corre todos los días a las 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite ejecutarlo manualmente
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Temas disponibles: default, vue, nord_bright, nord_dark, solarized, solarized_dark, monokai, gruvbox
+          THEME: "monokai"
