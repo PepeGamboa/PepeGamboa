@@ -1,13 +1,13 @@
 # Hola mundo 👋🌎🌍🌏🥳
 
-## Contacto
+## 📧 Contacto
 
 **Email:** arquitectopedrogamboa@gmail.com  
 **Web:** https://pedrogamboa.com/
 
 ---
 
-### ☕ Support My Work
+## ☕ Support My Work
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=arquitectoo&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/arquitectoo)
 
@@ -32,6 +32,16 @@
 
 ---
 
+## 📊 GitHub Activity Overview & Metrics
+
+<div align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/github-metrics.svg)
+
+</div>
+
+---
+
 ## 📊 Estadísticas Pepedev's GitHub Stats
 
 ⭐ **Total Stars Earned:** 4  
@@ -50,26 +60,11 @@
 
 ---
 
-## 📈 GitHub Stats Detalladas
+## 📈 Distribución de Actividad en GitHub
 
 <div align="center">
 
-### 🎯 Resumen de Actividad
-![Profile Summary](https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/0-profile-details.svg)
-
-### 📊 Estadísticas y Lenguajes
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/2-most-commit-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/3-stats.svg" width="48%" />
-</p>
-
-### 🕐 Productividad y Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/4-productive-time.svg" width="48%" />
-</p>
+![GitHub Activity Distribution](https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/profile-summary-card-output/monokai/3-stats.svg)
 
 </div>
 
@@ -112,5 +107,3 @@
 **Gracias por visitar mi perfil** ⭐
 
 </div>
-
-
