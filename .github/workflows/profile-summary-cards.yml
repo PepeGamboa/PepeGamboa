@@ -1,30 +1,54 @@
-name: GitHub Profile Summary Cards
+name: Metrics
 
 on:
   schedule:
-    # Corre todos los días a las 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente
+  workflow_dispatch:
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
-          # Temas disponibles: default, vue, nord_bright, nord_dark, solarized, solarized_dark, monokai, gruvbox
-          THEME: "monokai"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Opciones básicas
+          user: PepeGamboa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Configuración del plugin de hábitos (el gráfico de radar)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          
+          # Lenguajes más usados
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # Líneas de código
+          plugin_lines: yes
+          
+          # Configuración de output
+          config_timezone: America/Bogota
+          config_output: default
+          filename: github-metrics.svg
