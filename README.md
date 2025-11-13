@@ -50,6 +50,17 @@
 🔴 **Total Issues:** 0  
 🟩 **Contributed to (last year):** 0
 
+
+---
+
+## 📊 GitHub Activity Overview & Metrics
+
+<div align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/PepeGamboa/PepeGamboa/main/github-metrics.svg)
+
+</div>
+
 ---
 
 ## 🛠️ Tecnologías
