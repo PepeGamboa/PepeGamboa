@@ -2,7 +2,7 @@
 
 ## 📧 Contacto
 **Email:** arquitectopedrogamboa@gmail.com  
-**Web:** https://pedrogamboa.com/
+**Web:** https://arquitectopedrogamboa.com/
 
 ---
 
